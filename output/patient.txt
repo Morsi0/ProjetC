@@ -1,0 +1,4 @@
+1111111111 morsi 20 homme maladie5 22
+CIN789 nom 60 homme maladie3 0
+CIN456 Nom2 45 Femme Maladie2 5
+CIN123 Nom1 30 Homme Maladie1 2
